@@ -4,7 +4,7 @@
 >Alexsander Magnum Amurim Pinheiro<br/>
 >Graduando em Análise e Desenvolvimento de Sistemas - IFPI <br/>
 
-### Contact 
+### Contato 
 > 10alexsander10@gmail.com 
 
 ### Abilidades
@@ -14,7 +14,7 @@
 >C/C++ <br/>
 >Profissional em Montagem e Manutenção de Computadores
 
-###Interesses Acadêmicos
+### Interesses Acadêmicos
 >Adquirir Conhecimentos sobre programação WEB<br/>
 >Aperfeiçoar Conhecimentos OO <br/>
 >Aperfeiçoar Abilidades em JAVA<br/>
