@@ -1,9 +1,18 @@
-# Programacao-para-Internet
+# Programacao para Internet
 
-### Contacts: 
+### Dados
+>Alexsander Magnum Amurim Pinheiro<br/>
+>Graduando em Análise e Desenvolvimento de Sistemas - IFPI <br/>
+
+### Contacts 
 > 10alexsander10@gmail.com 
 
-### Abilidades:
- >Graduando em Análise e Desenvolvimento de Sistemas - IFPI <br/>
- >Profissional em Montagem e Manutenção de Computadores
+### Abilidades
+>Java <br/>
+>Orientação a Objetos <br/>
+>Python <br/>
+>C/C++ <br/>
+>Profissional em Montagem e Manutenção de Computadores
+ 
+
 
