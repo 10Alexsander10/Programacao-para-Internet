@@ -21,7 +21,7 @@
 >Aperfeiçoar Abilidades em JAVA <br/>
 >Aperfeiçoar Abiblidades em Python <br/>
 
-### Potifólio
+### Portifólio
 https://github.com/BlackFridayTeam <br/>
 https://github.com/10Alexsander10/POO <br/>
 https://github.com/10Alexsander10/Programa-o-Corporativa <br/>
