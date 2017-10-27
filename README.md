@@ -7,7 +7,7 @@
 ### Contato 
 > 10alexsander10@gmail.com 
 
-### Abilidades
+### Habilidades
 >Conhecimentos JAVA <br/>
 >Conhecimentos em Orientação a Objetos <br/>
 >Conhecimentos em Python <br/>
