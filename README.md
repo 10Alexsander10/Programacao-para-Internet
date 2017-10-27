@@ -21,15 +21,15 @@
 >Aperfeiçoar Abilidades em JAVA <br/>
 >Aperfeiçoar Abiblidades em Python <br/>
 
-### Potifólio:
+### Potifólio
 https://github.com/BlackFridayTeam <br/>
 https://github.com/10Alexsander10/POO <br/>
 https://github.com/10Alexsander10/Programa-o-Corporativa <br/>
 
-### Expectativa:
+### Expectativa
 > Acrescentar as minhas habilidades de construção de softwares conhecimentos básicos necessários de um Web Developer, retirando minhas limitações de apenas criar programas Standalone e de nenhuma interação com a Internet.
 
-### Links Interessantes:
+### Links Interessantes
 >https://www.w3schools.com/ <br/>
 https://www.caelum.com.br/
 
