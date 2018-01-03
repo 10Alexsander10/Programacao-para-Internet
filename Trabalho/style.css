@@ -1,0 +1,18 @@
+body{
+	margin: 0px;
+}
+
+.container{
+  padding-right: 7%;
+  padding-left: 7%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.navbar-inverse {
+  background-color: #222;
+  border-color: #080808;
+}
+.navbar-header {
+  float: left;
+}
