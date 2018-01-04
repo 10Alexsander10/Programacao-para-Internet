@@ -1,5 +1,9 @@
 body{
     margin: 0px;
+    background-image: url('fundo.jpg');
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-size: cover;
 }
 
 .container{
@@ -16,8 +20,8 @@ body{
 ul {
     border-radius: 8px;
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     overflow: hidden;
     background-color: orange;
 }
@@ -27,7 +31,7 @@ li {
 }
 
 li a {
-    border-radius: 8px;
+    border-radius:8px;
     display: block;
     color: white;
     text-align: center;
