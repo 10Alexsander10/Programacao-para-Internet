@@ -1,13 +1,21 @@
 body{
     margin: 0px;
+    width: 100%;
+    height: 400px ;
     background-image: url('fundo.jpg');
     background-repeat: no-repeat;
-    background-size:100%;
-    background-size: cover;
+    background-size:cover;
+    
 }
 
 footer{
     color: white;
+}
+
+nav{
+    background-color: orange;
+    display: inline-block;
+    width: 100%;
 }
 
 .container{
@@ -21,13 +29,19 @@ footer{
       
 }
 
+.direita{
+    float:right;
+}
+
+.esquerda{
+    float: left;
+}
+
 ul {
-    border-radius: 8px;
     list-style-type: none;
     margin: 0px;
     padding: 0px;
     overflow: hidden;
-    background-color: orange;
 }
 
 li {
@@ -35,7 +49,6 @@ li {
 }
 
 li a {
-    border-radius:8px;
     display: block;
     color: white;
     text-align: center;
@@ -43,18 +56,22 @@ li a {
     text-decoration: none;
 }
 
-li a:hover:not(.active) {
-    background-color: #778899;
+.btn{
+    color: white;
+    border: none;
+    padding: 14px 16px;
+    text-decoration:none;
+    margin-top: auto;
+    margin-bottom: auto;
+    cursor: pointer;
 }
 
 .active {
-    background-color: #111;
+    background-color: #333;
 }
 
 
-.dropbtn {
-    border-radius: 8px;
-    background-color: orange; 
+.dropbtn { 
     color: white;
     border: none;
     padding: 14px 16px;
@@ -67,7 +84,6 @@ li a:hover:not(.active) {
 }
 
 .dropdown-content {
-    border-radius: 8px;
     display: none;
     position: fixed;
     background-color: #f9f9f9;
@@ -93,9 +109,9 @@ li a:hover:not(.active) {
 }
 
 .dropdown:hover .dropbtn {
-    background-color: #778899;
-
-    
+    background-color: #333;    
 }
-
+.btn-sobre:hover {
+    background-color: #333;
+}
 
