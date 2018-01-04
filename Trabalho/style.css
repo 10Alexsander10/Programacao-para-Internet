@@ -1,16 +1,9 @@
 body{
-    font-family: Helvetica, sans-serif;
     margin: 0px;
-    width: 100%;
-    height: 400px ;
     background-image: url('fundo.jpg');
     background-repeat: no-repeat;
-    background-size:cover;
-    
-}
-
-h1, footer{
-    color: white;
+    background-size:100%;
+    background-size: cover;
 }
 
 nav{
@@ -39,6 +32,7 @@ nav{
 }
 
 ul {
+
     list-style-type: none;
     margin: 0px;
     padding: 0px;
@@ -50,6 +44,7 @@ li {
 }
 
 li a {
+
     display: block;
     color: white;
     text-align: center;
@@ -72,7 +67,7 @@ li a {
 }
 
 
-.dropbtn { 
+.dropbtn {
     color: white;
     border: none;
     padding: 14px 16px;
@@ -85,6 +80,7 @@ li a {
 }
 
 .dropdown-content {
+
     display: none;
     position: fixed;
     background-color: #f9f9f9;
@@ -110,59 +106,13 @@ li a {
 }
 
 .dropdown:hover .dropbtn {
-    background-color: #333;    
+    background-color: #333;
+
+    
 }
+
 .btn-sobre:hover {
     background-color: #333;
 }
-
-* {
-    box-sizing: border-box;
-}
-.row{
-    margin-right: 85px;
-    margin-left: 85px;
-}
-
-.row p{
-   font-size: 80%
-}
-
-.row li{
-    padding: 25px 50px 30px 50px;
-    position: relative;
-    display: block;
-
-}
-.row a{
-    color: orange;
-}
-
-.row a:hover{
-    background-color: #333;
-}
-
-.row::after {
-    content: "";
-    clear: both;
-    display: table;
-}
-[class*="col-"] {
-    float: left;
-    padding: 15px;
-}
-.col-1 {width: 8.33%;}
-.col-2 {width: 16.66%;}
-.col-3 {width: 25%;}
-.col-4 {width: 33.33%;}
-.col-5 {width: 41.66%;}
-.col-6 {width: 50%;}
-.col-7 {width: 58.33%;}
-.col-8 {width: 66.66%;}
-.col-9 {width: 75%;}
-.col-10 {width: 83.33%;}
-.col-11 {width: 91.66%;}
-.col-12 {width: 100%;}
-
 
 
