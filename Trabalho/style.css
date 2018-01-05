@@ -6,7 +6,7 @@
     font-family: Helvetica, sans-serif;
     margin: 0px;
     width: 100%;
-    background-image: url('fundo.jpg');
+    background-image: url('images/fundo.jpg');
     background-repeat: no-repeat;
     background-size:cover;
     
@@ -15,7 +15,7 @@
     font-family: Helvetica, sans-serif;
     margin: 0px;
     width: 100%;
-    background-image: url('f_musics.jpg');
+    background-image: url('images/f_musics.jpg');
     background-repeat: repeat;
     background-size:cover;
     
