@@ -2,6 +2,11 @@
     box-sizing: border-box;
 }
 
+html{
+    min-height: 100%;
+    position: relative;
+}
+
 .menus{
     font-family: Helvetica, sans-serif;
     margin: 0px;
@@ -24,17 +29,22 @@
 h1, h3, article p,footer{
     color: white;
 }
+
 h3{
     margin-left: 15px;
 }
+
 article p {
     text-align: center;
 }
+
 footer{
+    margin-top: 20px;
     padding-left: 15px;
     bottom: 0;
     border-top: 1px solid white;
     width: 100%;
+    position: absolute;
 }
 
 nav{
@@ -47,6 +57,7 @@ nav{
     padding-right: 0%;
     padding-left: 0%;
     margin-top: 50px;
+    margin-bottom: 50px;
     margin-right: auto;
     margin-left: auto;
 }
