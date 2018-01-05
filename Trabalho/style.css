@@ -6,7 +6,6 @@ body{
     font-family: Helvetica, sans-serif;
     margin: 0px;
     width: 100%;
-    height: 400px ;
     background-image: url('fundo.jpg');
     background-repeat: no-repeat;
     background-size:cover;
@@ -185,7 +184,7 @@ li a {
     .row{
         margin: 0px 20px;
     }
-
+    
     .col-7{
         width: 100%;
     }
@@ -198,6 +197,7 @@ li a {
 @media (max-width: 650px){
     
     .row{
+        text-align: center;
         margin: 0px 20px;
     }
 
