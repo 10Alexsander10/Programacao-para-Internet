@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body{
     font-family: Helvetica, sans-serif;
     margin: 0px;
@@ -13,8 +17,16 @@ h1, footer{
     color: white;
 }
 
+footer{
+    padding-left: 15px;
+    bottom: 0;
+
+    border-top: 1px solid white;
+    width: 100%;
+}
+
 nav{
-    background-color: orange;
+    background-color: rgba(255, 165, 0, 0.9);
     display: inline-block;
     width: 100%;
 }
@@ -22,8 +34,13 @@ nav{
 .container{
     padding-right: 0%;
     padding-left: 0%;
+    margin-top: 50px;
     margin-right: auto;
     margin-left: auto;
+}
+
+.mini-container{
+    padding: 15px 7px;
 }
 
 .navbar {
@@ -110,15 +127,12 @@ li a {
 }
 
 .dropdown:hover .dropbtn {
-    background-color: #333;    
+    background-color: rgba(51,51,51,0.2);    
 }
 .btn-sobre:hover {
-    background-color: #333;
+    background-color: rgba(51,51,51,0.2);
 }
 
-* {
-    box-sizing: border-box;
-}
 .row{
     margin-right: 85px;
     margin-left: 85px;
@@ -139,7 +153,7 @@ li a {
 }
 
 .row a:hover{
-    background-color: #333;
+    background-color: rgba(51,51,51,0.4);
 }
 
 .row::after {
@@ -147,10 +161,12 @@ li a {
     clear: both;
     display: table;
 }
+
 [class*="col-"] {
     float: left;
     padding: 15px;
 }
+
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
 .col-3 {width: 25%;}
