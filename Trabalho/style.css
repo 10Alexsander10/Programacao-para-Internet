@@ -180,7 +180,7 @@ li a {
 .col-11 {width: 91.66%;}
 .col-12 {width: 100%;}
 
-@media (max-width: 800px){
+@media (max-width: 1014px){
     
     .row{
         margin: 0px 20px;
@@ -191,11 +191,11 @@ li a {
     }
 
     .col-6, .col-5{
-        width: 50%;
+        width: 34%;
     }
 }
 
-@media (max-width: 600px){
+@media (max-width: 650px){
     
     .row{
         margin: 0px 20px;
