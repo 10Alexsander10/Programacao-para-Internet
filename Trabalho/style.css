@@ -180,6 +180,21 @@ li a {
 .col-11 {width: 91.66%;}
 .col-12 {width: 100%;}
 
+@media (max-width: 800px){
+    
+    .row{
+        margin: 0px 20px;
+    }
+
+    .col-7{
+        width: 100%;
+    }
+
+    .col-6, .col-5{
+        width: 50%;
+    }
+}
+
 @media (max-width: 600px){
     
     .row{
