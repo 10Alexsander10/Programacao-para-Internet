@@ -162,9 +162,10 @@ li a {
     margin-left: 85px;
 }
 
-.row p{
-   font-size: 120%;
-   margin: 0px;
+.col-5 p{
+
+    font-size: 85%;
+    margin: 5px;
 }
 
 .row li{
@@ -193,7 +194,7 @@ li a {
 }
 
 .video{
-    height: 390px;
+    height: 400px;
     float: right;
 }
 
