@@ -49,6 +49,9 @@ footer{
 }
 
 nav{
+    position: fixed;
+    top: 0%;
+    margin-top: 0px;
     background-color: rgba(255, 165, 0, 0.9);
     display: inline-block;
     width: 100%;
@@ -57,7 +60,7 @@ nav{
 .container{
     padding-right: 0%;
     padding-left: 0%;
-    margin-top: 50px;
+    margin-top: 100px;
     margin-bottom: 50px;
     margin-right: auto;
     margin-left: auto;
@@ -65,10 +68,6 @@ nav{
 
 .mini-container{
     padding: 15px 7px;
-}
-
-.navbar {
-      
 }
 
 .direita{
