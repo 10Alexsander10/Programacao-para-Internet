@@ -48,6 +48,11 @@ footer{
     position: absolute;
 }
 
+.authors{
+    color: orange;
+    margin-right: 10px;
+}
+
 nav{
     position: fixed;
     top: 0%;
