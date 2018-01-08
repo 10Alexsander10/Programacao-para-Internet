@@ -14,17 +14,14 @@ html{
     background-image: url('images/fundo.jpg');
     background-repeat: no-repeat;
     background-size:cover;
-
-    
 }
+
 .musicas{
     font-family: Helvetica, sans-serif;
     margin: 0px;
     width: 100%;
     background-image: url('images/f_musics.jpg');
-    background-repeat: repeat;
-
-    
+    background-repeat: repeat;    
 }
 
 h1, h3, article p,footer{
@@ -59,7 +56,7 @@ nav{
     position: fixed;
     top: 0%;
     margin-top: 0px;
-    background-color: rgba(255, 165, 0, 0.9);
+    background-color: rgba(255, 165, 0, 0.98);
     display: inline-block;
     width: 100%;
 }
@@ -117,7 +114,6 @@ li a {
 .active {
     background-color: #333;
 }
-
 
 .dropbtn { 
     color: white;
@@ -287,7 +283,6 @@ iframe{
     }
 }
 
-
 @media (max-width: 370px){
     iframe{
         width: 95%;
@@ -295,5 +290,27 @@ iframe{
     }
     .video{
         height: 170px;
+    }
+    .authors{
+        display: none;
+    }
+}
+@media(max-width: 324px){
+    .container{
+        margin-top: 180px;
+    }
+    nav a{
+        width: 100%;
+        text-align: center;
+    }
+    nav ul{
+        width: 100%;
+        
+    }
+    ul li{
+        width: 100%;
+    }
+    li div {
+        width: 100%;
     }
 }
