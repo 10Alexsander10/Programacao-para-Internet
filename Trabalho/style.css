@@ -42,6 +42,7 @@ article p {
 footer{
     margin-top: 20px;
     padding-left: 15px;
+    padding-right: 15px;
     bottom: 0;
     border-top: 1px solid white;
     width: 100%;
@@ -49,8 +50,7 @@ footer{
 }
 
 .authors{
-    color: orange;
-    margin-right: 10px;
+    margin-top: 15px;
 }
 
 nav{
@@ -65,7 +65,7 @@ nav{
 .container{
     padding-right: 0%;
     padding-left: 0%;
-    margin-top: 100px;
+    margin-top: 130px;
     margin-bottom: 50px;
     margin-right: auto;
     margin-left: auto;
@@ -271,6 +271,9 @@ iframe{
     }
     .video{
         height: 260px;
+    }
+    footer .authors{
+    width: 100%;
     }
 }
 
