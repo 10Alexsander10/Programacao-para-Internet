@@ -153,6 +153,7 @@ li a {
 .dropdown:hover .dropbtn {
     background-color: rgba(51,51,51,0.2);    
 }
+
 .btn-sobre:hover {
     background-color: rgba(51,51,51,0.2);
 }
@@ -261,55 +262,71 @@ iframe{
 }
 
 @media (max-width: 500px){
+
     iframe{
         width: 95%;
         height: 100%;
     }
+
     .video{
         height: 260px;
     }
+
     footer .authors{
-    width: 100%;
+        width: 100%;
     }
+
 }
 
 @media (max-width: 400px){
+
     iframe{
         width: 95%;
         height: 100%;
     }
+
     .video{
         height: 200px;
     }
+
 }
 
 @media (max-width: 370px){
+
     iframe{
         width: 95%;
         height: 100%;
     }
+
     .video{
         height: 170px;
     }
+
     .authors{
         display: none;
     }
+
 }
+
 @media(max-width: 324px){
+
     .container{
         margin-top: 180px;
     }
+
     nav a{
         width: 100%;
         text-align: center;
     }
+
     nav ul{
         width: 100%;
-        
     }
+
     ul li{
         width: 100%;
     }
+    
     li div {
         width: 100%;
     }
